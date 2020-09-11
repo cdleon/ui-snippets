@@ -16,7 +16,6 @@
   * [Froala Design Blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites. [https://www.froala.com/design-blocks](https://www.froala.com/design-blocks)
   * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) - In this article we have listed 30 CSS snippets that we think you will find very useful.
   * [Six Revisions](http://sixrevisions.com/category/css/) - Six Revisions is a web publication for web developers and web designers. We publish articles, guides, tutorials, news and other forms of content for people who design and build sites and apps.
-  * [Smipple](http://www.smipple.net/lang/css) - Smipple is a social service for saving and sharing snipplets of code.
   * [Snipplr](http://snipplr.com/) - All of our code snippets are stored in one place.
   * [Snipt](https://snipt.net/public/tag/css/) - The publishing platform for coders.
   * [Speckyboy](https://speckyboy.com/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
@@ -29,7 +28,6 @@
 
 - **Libraries**
 
-  * [Smipple](http://www.smipple.net/lang/js) - Smipple is a social service for saving and sharing snipplets of code.
   * [Snipplr](http://snipplr.com/) - All of our code snippets are stored in one place.
   * [Snipt](https://snipt.net/public/tag/jquery/) - The publishing platform for coders.
 
