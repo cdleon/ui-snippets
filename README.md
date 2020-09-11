@@ -1,5 +1,7 @@
 # UI Snippets
 
+[![Build Status](https://api.travis-ci.org/cdleon/ui-snippets.svg?branch=master)](https://travis-ci.org/cdleon/ui-snippets)
+
 ## CSS
 
 - **Libraries**
