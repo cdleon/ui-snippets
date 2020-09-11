@@ -41,7 +41,6 @@
 - **Libraries**
 
   * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
-  * [Smipple](http://www.smipple.net/lang/js) - Smipple is a social service for saving and sharing snipplets of code.
   * [Snipplr](http://snipplr.com/) - Lets you store and share all of your commonly used pieces of code and HTML with other programmers and designers.
   * [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) -  - The publishing platform for coders.
   * [Snipt (tag:js)](https://snipt.net/public/tag/js/) -  - The publishing platform for coders.
